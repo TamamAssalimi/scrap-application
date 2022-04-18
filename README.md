@@ -12,3 +12,16 @@
 * Java 11
 * Maven
 * [Chrome Driver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
+* spring boot
+
+## How To Run
+
+Install Dependencies
+```bash
+clean install
+```
+
+Run Application
+```bash
+java run {aplication-name}.jar
+```
